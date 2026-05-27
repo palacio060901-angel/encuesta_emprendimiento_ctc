@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237254482493",
+    "project_id": "encuesta-emprendimiento-f4605",
+    "storage_bucket": "encuesta-emprendimiento-f4605.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237254482493:android:9c933a33fcdd615557e854",
+        "android_client_info": {
+          "package_name": "com.example.encuesta_emprendimiento_ctc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQQOHxySm9RRHNkvz4khaW4jhMdLwYh1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
