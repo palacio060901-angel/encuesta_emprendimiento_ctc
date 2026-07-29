@@ -81,12 +81,12 @@ lib/
 
 *
 <img width="420" height="933" alt="image" src="https://github.com/user-attachments/assets/076faedf-d529-48c8-9a7f-70f1e360131f" />
-<img width="445" height="989" alt="image" src="https://github.com/user-attachments/assets/f6115d2b-a332-46a7-8a73-e74ac1a6bcf3" /> 
 *
 
 ### Estadísticas
 
-*<img width="427" height="948" alt="image" src="https://github.com/user-attachments/assets/bac3b098-efab-4dd0-9343-e2b4badc214d" />
+*<img width="445" height="989" alt="image" src="https://github.com/user-attachments/assets/f6115d2b-a332-46a7-8a73-e74ac1a6bcf3" /> 
+<img width="427" height="948" alt="image" src="https://github.com/user-attachments/assets/bac3b098-efab-4dd0-9343-e2b4badc214d" />
 <img width="442" height="983" alt="image" src="https://github.com/user-attachments/assets/37f533d4-4d65-4f13-bc73-ab1c977a930a" />
 *
 
