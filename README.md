@@ -1,16 +1,29 @@
-# encuesta_emprendimiento_ctc
+# Encuesta Emprendimiento CTC
 
-A new Flutter project.
+Aplicación móvil desarrollada en Flutter como proyecto final del Técnico Laboral en Desarrollo de Aplicaciones Informáticas y Digitales del Centro Tecnológico de Cúcuta.
 
-## Getting Started
+## Tecnologías
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Dart
+- Firebase
+- Firestore
+- Git
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Registro de usuarios
+- Formularios dinámicos
+- Validación de datos
+- Almacenamiento en Firebase
+- Consulta de información
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Capturas
+
+(imágenes)
+
+## Instalación
+
+flutter pub get
+
+flutter run
