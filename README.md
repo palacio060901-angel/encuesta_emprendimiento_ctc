@@ -64,7 +64,7 @@ lib/
 
 ### Registro de datos
 
-*<img width="387" height="859" alt="image" src="https://github.com/user-attachments/assets/23d3d91d-13c8-498b-b986-4bc972fff2cf" />\n*
+*<img width="387" height="859" alt="image" src="https://github.com/user-attachments/assets/23d3d91d-13c8-498b-b986-4bc972fff2cf" />*
 
 ### Encuesta
 
