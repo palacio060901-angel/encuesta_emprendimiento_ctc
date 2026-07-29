@@ -81,10 +81,7 @@ lib/
 
 *
 <img width="420" height="933" alt="image" src="https://github.com/user-attachments/assets/076faedf-d529-48c8-9a7f-70f1e360131f" />
-<img width="445" height="989" alt="image" src="https://github.com/user-attachments/assets/f6115d2b-a332-46a7-8a73-e74ac1a6bcf3" />
-<img width="431" height="957" alt="image" src="https://github.com/user-attachments/assets/86c0de70-5a9f-4619-8afa-3d71361f1c0b" />
-<img width="446" height="991" alt="image" src="https://github.com/user-attachments/assets/60be74ff-166b-4aff-9795-10ab9df00c26" />
-<img width="430" height="955" alt="image" src="https://github.com/user-attachments/assets/0eb66c7c-f2b6-4018-a207-724236319f8b" /> 
+<img width="445" height="989" alt="image" src="https://github.com/user-attachments/assets/f6115d2b-a332-46a7-8a73-e74ac1a6bcf3" /> 
 *
 
 ### Estadísticas
